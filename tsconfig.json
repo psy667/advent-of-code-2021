@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "preserveConstEnums": true,
+        "lib": ["es2020", "DOM"],
+    },
+    "include": ["*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
