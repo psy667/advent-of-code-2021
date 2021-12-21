@@ -1,7 +1,7 @@
 {
-  "name": "AoC",
+  "name": "advent-of-code",
   "version": "1.0.0",
-  "description": "### Run ``` ts-node aoc-10.ts ```",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
