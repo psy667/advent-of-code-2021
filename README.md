@@ -8,4 +8,3 @@ npm install
 ### Run
 ```
 ts-node aoc-10.ts
-```
